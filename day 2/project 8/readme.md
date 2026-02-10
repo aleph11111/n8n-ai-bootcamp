@@ -1,5 +1,5 @@
 # P8 – Advanced Agent with RAG
-In this project, we'll enhance our AI Agent with access to internal data sources.
+In this project, we'll enhance our AI Agent with access to internal data sources. You can [review the documents here](https://github.com/tobiaszwingmann/n8n-ai-bootcamp/tree/main/day%202/project%208/documents).
 
 ## Part 1: Document ingestion
 
