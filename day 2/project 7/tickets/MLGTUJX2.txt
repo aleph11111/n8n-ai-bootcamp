@@ -1,0 +1,5 @@
+User Name: Christoph 
+Submitted: 2026-02-10T17:40:32.343+01:00 
+Description: User Christoph's mouse is not responding. 
+Status: Open
+Prio: Urgent
